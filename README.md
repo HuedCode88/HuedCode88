@@ -11,4 +11,4 @@ A Computer Science Major that's eager to learn
 - 👯 I’m looking to collaborate on: Anything! I am hungry and willing to expand my knowledge in any cool way I can manage to. 
 - 🤔 I’m interested in: Projects surrounding APIs and programs that explore AI in interesting ways. 
 - 📫 How to reach me: huedpro.ceo@gmail.com|305-833-1310
-
+-->
