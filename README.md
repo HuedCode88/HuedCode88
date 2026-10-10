@@ -6,7 +6,7 @@ A Computer Science Major that's eager to learn
 
 - 🔭 I’m currently working: As a Tech Fellow at CodePath teaching and mentoring in an advanced Data Structures course to reinforce Python fundamentals for two cohorts of hundreds of students!
 - 🌱 I’m currently learning: Cloud Computing, with a focus on Azure and AWS. 
-- 🤓 My current tech stack is: Primarily Python, React, Javascript, and Typescript, but my first Language is Java(7 years of experience)
+- 🤓 My current tech stack is: Primarily Python, React, Javascript, and Typescript, but my first Language is Java (7 years of experience)
 - 👯 I’m looking to collaborate on: Anything! I am hungry and willing to expand my knowledge in any cool way I can manage to. 
 - 🤔 I’m interested in: Projects surrounding APIs and programs that explore AI in interesting ways. 
 - 📫 How to reach me: huedpro.ceo@gmail.com | 305-833-1310 | www.linkedin.com/in/alexander-hued
